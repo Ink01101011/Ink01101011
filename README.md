@@ -15,7 +15,7 @@ Open to collaborating on open-source dev tools.
 <h2>🚀 Selected work</h2>
 
 - [**bantamkit**](https://github.com/Ink01101011/bantamkit): memory MCP server for Claude Code, Cursor, VS Code Copilot and Claude Desktop. Install once from npm or PyPI, then it runs offline.
-- [**datakable**](https://github.com/Ink01101011/datakable): type-safe headless data table for React.
+- [**datakable**](https://github.com/Ink01101011/datakable): Type-safe, zero-config data table for React and TypeScript: sorting, filtering, search and pagination with a headless, framework-free core.
 - [**ex-search**](https://github.com/Ink01101011/ex-search): scoring-based fuzzy search with Myers Levenshtein distance and radix/tim sort ranking.
 - [**ex-flow**](https://github.com/Ink01101011/ex-flow): dependency-graph execution planner using Kahn's algorithm with priority-aware batching.
 - [**exsorted**](https://github.com/Ink01101011/exsorted) / [**exsorted-react**](https://github.com/Ink01101011/exsorted-react): a TypeScript sorting algorithms library, plus React hooks for it.
